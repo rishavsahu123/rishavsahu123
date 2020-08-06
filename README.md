@@ -1,4 +1,4 @@
-### About ME
+### About Me
 
 - 💻 Software Developer [@Voicezen](https://voicezen.ai)
 - 🔭 Working on: JS(Vuejs), HTML, CSS.

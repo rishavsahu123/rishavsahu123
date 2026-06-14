@@ -1,6 +1,6 @@
 ### About Me
 
-- 💻 Software Engineer [@Symmetry-systems](https://www.symmetry-systems.com)
+- 💻 Software Engineer [@Zscaler](https://www.zscaler.com)
 - 💻 Lead Product Engineer [@Voicezen](https://voicezen.ai) acquired by [Sprinklr](https://www.sprinklr.com/)
 - 💻 Former Software Engineer 
 - 🔭 Worked on: Reactjs, Vuejs, HTML, CSS, NodeJS, Express, Django, Python.
